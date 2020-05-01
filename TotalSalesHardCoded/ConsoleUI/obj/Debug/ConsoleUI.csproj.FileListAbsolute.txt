@@ -1,0 +1,6 @@
+E:\_20SP\C#\mod2\TotalSalesHardCoded\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+E:\_20SP\C#\mod2\TotalSalesHardCoded\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+E:\_20SP\C#\mod2\TotalSalesHardCoded\ConsoleUI\bin\Debug\ConsoleUI.exe
+E:\_20SP\C#\mod2\TotalSalesHardCoded\ConsoleUI\bin\Debug\ConsoleUI.pdb
+E:\_20SP\C#\mod2\TotalSalesHardCoded\ConsoleUI\obj\Debug\ConsoleUI.exe
+E:\_20SP\C#\mod2\TotalSalesHardCoded\ConsoleUI\obj\Debug\ConsoleUI.pdb

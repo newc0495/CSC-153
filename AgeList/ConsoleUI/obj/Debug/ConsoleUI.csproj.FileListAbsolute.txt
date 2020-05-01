@@ -1,0 +1,12 @@
+C:\Users\chris\Desktop\New Install\_20SP\C#\mod2\AgeList\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\chris\Desktop\New Install\_20SP\C#\mod2\AgeList\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\chris\Desktop\New Install\_20SP\C#\mod2\AgeList\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\chris\Desktop\New Install\_20SP\C#\mod2\AgeList\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\chris\Desktop\New Install\_20SP\C#\mod2\AgeList\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\chris\Desktop\New Install\_20SP\C#\mod2\AgeList\ConsoleUI\obj\Debug\ConsoleUI.pdb
+E:\_20SP\C#\mod2\AgeList\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+E:\_20SP\C#\mod2\AgeList\ConsoleUI\bin\Debug\ConsoleUI.exe
+E:\_20SP\C#\mod2\AgeList\ConsoleUI\bin\Debug\ConsoleUI.pdb
+E:\_20SP\C#\mod2\AgeList\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+E:\_20SP\C#\mod2\AgeList\ConsoleUI\obj\Debug\ConsoleUI.exe
+E:\_20SP\C#\mod2\AgeList\ConsoleUI\obj\Debug\ConsoleUI.pdb

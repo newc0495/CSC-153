@@ -1,0 +1,6 @@
+E:\_20SP\C#\mod2\DemoArrays\bin\Debug\DemoArrays.exe.config
+E:\_20SP\C#\mod2\DemoArrays\bin\Debug\DemoArrays.exe
+E:\_20SP\C#\mod2\DemoArrays\bin\Debug\DemoArrays.pdb
+E:\_20SP\C#\mod2\DemoArrays\obj\Debug\DemoArrays.csprojAssemblyReference.cache
+E:\_20SP\C#\mod2\DemoArrays\obj\Debug\DemoArrays.exe
+E:\_20SP\C#\mod2\DemoArrays\obj\Debug\DemoArrays.pdb
