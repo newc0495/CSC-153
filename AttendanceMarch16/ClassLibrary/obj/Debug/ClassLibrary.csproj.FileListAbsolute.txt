@@ -1,0 +1,5 @@
+C:\Users\chris\Desktop\_20SP\C#\mod4\AttendanceMarch16\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\chris\Desktop\_20SP\C#\mod4\AttendanceMarch16\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\chris\Desktop\_20SP\C#\mod4\AttendanceMarch16\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\chris\Desktop\_20SP\C#\mod4\AttendanceMarch16\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\chris\Desktop\_20SP\C#\mod4\AttendanceMarch16\ClassLibrary\obj\Debug\ClassLibrary.pdb
