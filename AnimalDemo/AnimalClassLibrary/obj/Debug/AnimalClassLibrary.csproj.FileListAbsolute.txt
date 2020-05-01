@@ -1,0 +1,6 @@
+C:\Users\chris\Desktop\_20SP\C#\mod6\AnimalDemo\AnimalClassLibrary\bin\Debug\AnimalClassLibrary.dll
+C:\Users\chris\Desktop\_20SP\C#\mod6\AnimalDemo\AnimalClassLibrary\bin\Debug\AnimalClassLibrary.pdb
+C:\Users\chris\Desktop\_20SP\C#\mod6\AnimalDemo\AnimalClassLibrary\obj\Debug\AnimalClassLibrary.csprojAssemblyReference.cache
+C:\Users\chris\Desktop\_20SP\C#\mod6\AnimalDemo\AnimalClassLibrary\obj\Debug\AnimalClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\_20SP\C#\mod6\AnimalDemo\AnimalClassLibrary\obj\Debug\AnimalClassLibrary.dll
+C:\Users\chris\Desktop\_20SP\C#\mod6\AnimalDemo\AnimalClassLibrary\obj\Debug\AnimalClassLibrary.pdb
