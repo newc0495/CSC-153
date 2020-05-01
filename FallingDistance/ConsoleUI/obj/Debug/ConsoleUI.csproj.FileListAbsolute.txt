@@ -1,0 +1,6 @@
+C:\Users\chris\Desktop\_20SP\C#\mod3\FallingDistance\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\chris\Desktop\_20SP\C#\mod3\FallingDistance\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\chris\Desktop\_20SP\C#\mod3\FallingDistance\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\chris\Desktop\_20SP\C#\mod3\FallingDistance\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\chris\Desktop\_20SP\C#\mod3\FallingDistance\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\chris\Desktop\_20SP\C#\mod3\FallingDistance\ConsoleUI\obj\Debug\ConsoleUI.pdb
