@@ -1,0 +1,6 @@
+C:\Users\chris\Desktop\_20SP\C#\mod6\InheritanceDemo\AutoClassLibrary\bin\Debug\AutoClassLibrary.dll
+C:\Users\chris\Desktop\_20SP\C#\mod6\InheritanceDemo\AutoClassLibrary\bin\Debug\AutoClassLibrary.pdb
+C:\Users\chris\Desktop\_20SP\C#\mod6\InheritanceDemo\AutoClassLibrary\obj\Debug\AutoClassLibrary.csprojAssemblyReference.cache
+C:\Users\chris\Desktop\_20SP\C#\mod6\InheritanceDemo\AutoClassLibrary\obj\Debug\AutoClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\_20SP\C#\mod6\InheritanceDemo\AutoClassLibrary\obj\Debug\AutoClassLibrary.dll
+C:\Users\chris\Desktop\_20SP\C#\mod6\InheritanceDemo\AutoClassLibrary\obj\Debug\AutoClassLibrary.pdb
